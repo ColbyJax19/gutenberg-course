@@ -1,0 +1,9 @@
+{
+  "apiVersion": 2,
+  "name": "blocks/firstblock",
+  "title": "First Block",
+  "description": "My First Block",
+  "category": "text",
+  "icon": "format-status",
+  "editorScript": "file:./index.js"
+}
